@@ -13,4 +13,6 @@
 
 <h3>Architecture and Technologies</h3>
 API: In the context of our application, the API section enables fetching data from the internet.
+
+
 Shared Preferences: SharedPreferences package provides a local storage method that can be used to store application data
