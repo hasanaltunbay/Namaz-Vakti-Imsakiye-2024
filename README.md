@@ -1,3 +1,8 @@
+<h1><Download the App/h1>
+ Google Play Store: https://play.google.com/store/apps/details?id=com.talhacoskun.ramadanapp
+
+ App Store: https://apps.apple.com/tr/app/namaz-vakti-i-msakiye-2024/id6479539453?l=tr
+ 
  <h3>Screenshots</h3>
 
 <img src= https://github.com/hasanaltunbay/Namaz-Vakti-Imsakiye-2024/assets/132913817/c9874d1b-e17e-4982-bc69-6d93a3f1f6f2 width="200" height="400"/>
