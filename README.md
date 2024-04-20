@@ -1,4 +1,4 @@
-<h1><Download the App/h1>
+<h3><Download the App/h3>
  Google Play Store:https://play.google.com/store/apps/details?id=com.talhacoskun.ramadanapp
 
  App Store: https://apps.apple.com/tr/app/namaz-vakti-i-msakiye-2024/id6479539453?l=tr
